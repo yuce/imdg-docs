@@ -7,5 +7,6 @@ asciidoc:
     page-toclevels: 1
     page-ghissue: https://github.com/hazelcast/imdg-docs/issues/new
     javadocBaseUrl: https://docs.hazelcast.org/docs/
+    mc-docs: https://docs.hazelcast.com/management-center/latest/
 nav:
 - modules/ROOT/nav.adoc
